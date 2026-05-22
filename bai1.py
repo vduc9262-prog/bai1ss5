@@ -15,13 +15,12 @@ print(result)
 
 
 
-# # Vì sao cách duyệt này khiến báo cáo không gom dữ liệu theo từng chi nhánh?
+
 # # vì thiếu print() ở vòng lặp month 
 # tạo thêm 1 biến result cho nó += và in ra chi nhanh tháng và số tiền 
 
 # Vì vòng lặp ngoài là tháng, nên chương trình nhập và in theo tháng trước.
 
-# Theo yêu cầu nghiệp vụ, vòng lặp ngoài nên duyệt theo chi nhánh hay theo tháng?
-# Vòng lặp trong nên duyệt theo chi nhánh hay theo tháng?
 # Vòng lặp ngoài nên duyệt theo Chi nhánh
 # Vòng lặp trong nên duyệt theo Tháng
+
